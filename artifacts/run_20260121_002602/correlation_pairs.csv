@@ -1,0 +1,6 @@
+dataset,feature_1,feature_2,pearson,spearman,winsorized_pearson
+ddf--datapoints--cell_phones_per_100_people--by--geo--time,time,cell_phones_per_100_people,0.7577777318472909,0.9092035935761137,0.7678266940265479
+ddf--datapoints--cell_phones_total--by--geo--time,time,cell_phones_total,0.18658416066114897,0.8606282196413026,0.3341304834812884
+ddf--datapoints--females_aged_15_24_unemployment_rate_percent--by--geo--time,time,females_aged_15_24_unemployment_rate_percent,0.09493850907618287,0.06475293898187669,0.08978177181895769
+ddf--datapoints--females_aged_25_54_unemployment_rate_percent--by--geo--time,time,females_aged_25_54_unemployment_rate_percent,0.05504545150695626,-0.013386014648718993,0.049198262059638696
+ddf--datapoints--working_hours_per_week--by--geo--time,time,working_hours_per_week,-0.04579126909934119,-0.06391488138108116,-0.046822993154888796

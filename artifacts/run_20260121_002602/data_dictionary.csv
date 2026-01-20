@@ -1,0 +1,91 @@
+dataset,column,inferred_type,description,notes
+ddf--datapoints--alcohol_consumption_per_adult_15plus_litres--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--alcohol_consumption_per_adult_15plus_litres--by--geo--time,time,categorical,time,
+ddf--datapoints--alcohol_consumption_per_adult_15plus_litres--by--geo--time,alcohol_consumption_per_adult_15plus_litres,numeric,alcohol consumption per adult 15plus litres,
+ddf--datapoints--body_mass_index_bmi_men_kgperm2--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--body_mass_index_bmi_men_kgperm2--by--geo--time,time,categorical,time,
+ddf--datapoints--body_mass_index_bmi_men_kgperm2--by--geo--time,body_mass_index_bmi_men_kgperm2,numeric,body mass index bmi men kgperm2,
+ddf--datapoints--body_mass_index_bmi_women_kgperm2--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--body_mass_index_bmi_women_kgperm2--by--geo--time,time,categorical,time,
+ddf--datapoints--body_mass_index_bmi_women_kgperm2--by--geo--time,body_mass_index_bmi_women_kgperm2,numeric,body mass index bmi women kgperm2,
+ddf--datapoints--breast_cancer_deaths_per_100000_women--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--breast_cancer_deaths_per_100000_women--by--geo--time,time,categorical,time,
+ddf--datapoints--breast_cancer_deaths_per_100000_women--by--geo--time,breast_cancer_deaths_per_100000_women,numeric,breast cancer deaths per 100000 women,
+ddf--datapoints--cell_phones_per_100_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--cell_phones_per_100_people--by--geo--time,time,numeric,time,
+ddf--datapoints--cell_phones_per_100_people--by--geo--time,cell_phones_per_100_people,numeric,cell phones per 100 people,
+ddf--datapoints--cell_phones_total--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--cell_phones_total--by--geo--time,time,numeric,time,
+ddf--datapoints--cell_phones_total--by--geo--time,cell_phones_total,numeric,cell phones total,
+ddf--datapoints--cholesterol_fat_in_blood_men_mmolperl--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--cholesterol_fat_in_blood_men_mmolperl--by--geo--time,time,categorical,time,
+ddf--datapoints--cholesterol_fat_in_blood_men_mmolperl--by--geo--time,cholesterol_fat_in_blood_men_mmolperl,categorical,cholesterol fat in blood men mmolperl,
+ddf--datapoints--cholesterol_fat_in_blood_women_mmolperl--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--cholesterol_fat_in_blood_women_mmolperl--by--geo--time,time,categorical,time,
+ddf--datapoints--cholesterol_fat_in_blood_women_mmolperl--by--geo--time,cholesterol_fat_in_blood_women_mmolperl,categorical,cholesterol fat in blood women mmolperl,
+ddf--datapoints--data_quality_income_per_person--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--data_quality_income_per_person--by--geo--time,time,numeric,time,
+ddf--datapoints--data_quality_income_per_person--by--geo--time,data_quality_income_per_person,categorical,data quality income per person,
+ddf--datapoints--economic_growth_over_the_past_10_years--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--economic_growth_over_the_past_10_years--by--geo--time,time,categorical,time,
+ddf--datapoints--economic_growth_over_the_past_10_years--by--geo--time,economic_growth_over_the_past_10_years,numeric,economic growth over the past 10 years,
+ddf--datapoints--females_aged_15_24_unemployment_rate_percent--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--females_aged_15_24_unemployment_rate_percent--by--geo--time,time,numeric,time,
+ddf--datapoints--females_aged_15_24_unemployment_rate_percent--by--geo--time,females_aged_15_24_unemployment_rate_percent,numeric,females aged 15 24 unemployment rate percent,
+ddf--datapoints--females_aged_25_54_unemployment_rate_percent--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--females_aged_25_54_unemployment_rate_percent--by--geo--time,time,numeric,time,
+ddf--datapoints--females_aged_25_54_unemployment_rate_percent--by--geo--time,females_aged_25_54_unemployment_rate_percent,numeric,females aged 25 54 unemployment rate percent,
+ddf--datapoints--male_long_term_unemployment_rate_percent--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--male_long_term_unemployment_rate_percent--by--geo--time,time,categorical,time,
+ddf--datapoints--male_long_term_unemployment_rate_percent--by--geo--time,male_long_term_unemployment_rate_percent,numeric,male long term unemployment rate percent,id_like
+ddf--datapoints--suicide_age_15_19_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_15_19_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_15_19_per_100000_people--by--geo--time,suicide_age_15_19_per_100000_people,numeric,suicide age 15 19 per 100000 people,id_like
+ddf--datapoints--suicide_age_15_24_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_15_24_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_15_24_per_100000_people--by--geo--time,suicide_age_15_24_per_100000_people,numeric,suicide age 15 24 per 100000 people,id_like
+ddf--datapoints--suicide_age_15_29_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_15_29_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_15_29_per_100000_people--by--geo--time,suicide_age_15_29_per_100000_people,numeric,suicide age 15 29 per 100000 people,id_like
+ddf--datapoints--suicide_age_25_34_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_25_34_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_25_34_per_100000_people--by--geo--time,suicide_age_25_34_per_100000_people,numeric,suicide age 25 34 per 100000 people,id_like
+ddf--datapoints--suicide_age_30_49_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_30_49_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_30_49_per_100000_people--by--geo--time,suicide_age_30_49_per_100000_people,numeric,suicide age 30 49 per 100000 people,id_like
+ddf--datapoints--suicide_age_35_44_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_35_44_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_35_44_per_100000_people--by--geo--time,suicide_age_35_44_per_100000_people,numeric,suicide age 35 44 per 100000 people,id_like
+ddf--datapoints--suicide_age_45_54_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_45_54_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_45_54_per_100000_people--by--geo--time,suicide_age_45_54_per_100000_people,numeric,suicide age 45 54 per 100000 people,id_like
+ddf--datapoints--suicide_age_55_64_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_55_64_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_55_64_per_100000_people--by--geo--time,suicide_age_55_64_per_100000_people,numeric,suicide age 55 64 per 100000 people,id_like
+ddf--datapoints--suicide_age_65_74_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_65_74_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_65_74_per_100000_people--by--geo--time,suicide_age_65_74_per_100000_people,numeric,suicide age 65 74 per 100000 people,id_like
+ddf--datapoints--suicide_age_75_84_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_75_84_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_75_84_per_100000_people--by--geo--time,suicide_age_75_84_per_100000_people,numeric,suicide age 75 84 per 100000 people,id_like
+ddf--datapoints--suicide_age_85plus_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_age_85plus_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_age_85plus_per_100000_people--by--geo--time,suicide_age_85plus_per_100000_people,numeric,suicide age 85plus per 100000 people,id_like
+ddf--datapoints--suicide_men_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_men_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_men_per_100000_people--by--geo--time,suicide_men_per_100000_people,numeric,suicide men per 100000 people,id_like
+ddf--datapoints--suicide_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_per_100000_people--by--geo--time,suicide_per_100000_people,numeric,suicide per 100000 people,id_like
+ddf--datapoints--suicide_total_deaths--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_total_deaths--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_total_deaths--by--geo--time,suicide_total_deaths,numeric,suicide total deaths,id_like
+ddf--datapoints--suicide_women_per_100000_people--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--suicide_women_per_100000_people--by--geo--time,time,categorical,time,
+ddf--datapoints--suicide_women_per_100000_people--by--geo--time,suicide_women_per_100000_people,numeric,suicide women per 100000 people,id_like
+ddf--datapoints--total_number_of_dollar_billionaires--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--total_number_of_dollar_billionaires--by--geo--time,time,categorical,time,
+ddf--datapoints--total_number_of_dollar_billionaires--by--geo--time,total_number_of_dollar_billionaires,numeric,total number of dollar billionaires,
+ddf--datapoints--working_hours_per_week--by--geo--time,geo,categorical,geo,id_like
+ddf--datapoints--working_hours_per_week--by--geo--time,time,numeric,time,
+ddf--datapoints--working_hours_per_week--by--geo--time,working_hours_per_week,numeric,working hours per week,

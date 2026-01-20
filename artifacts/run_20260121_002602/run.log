@@ -1,0 +1,9 @@
+2026-01-21 00:26:02 | INFO | Starting wellness insights analysis
+2026-01-21 00:26:03 | INFO | No unified dataset created.
+2026-01-21 00:26:04 | INFO | Top findings:
+2026-01-21 00:26:04 | INFO |  - time vs cell_phones_per_100_people (spearman=0.909)
+2026-01-21 00:26:04 | INFO |  - time vs cell_phones_total (spearman=0.861)
+2026-01-21 00:26:04 | INFO |  - time vs cell_phones_per_100_people (pearson=0.758)
+2026-01-21 00:26:04 | INFO |  - time vs data_quality_income_per_person (spearman=-0.565)
+2026-01-21 00:26:04 | INFO |  - time vs data_quality_income_per_person (pearson=-0.488)
+2026-01-21 00:26:04 | INFO | Run complete. Outputs at artifacts\run_20260121_002602
